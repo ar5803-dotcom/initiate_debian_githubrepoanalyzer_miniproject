@@ -4,7 +4,7 @@
 
 ![t2screen](https://github.com/ar5803-dotcom/initiate_debian_githubrepoanalyzer_miniproject/assets/92009451/8adbf528-fd1d-434d-b5b0-1435779e89cd)
 
-![t3screen](https://github.com/ar5803-dotcom/initiate_debian_githubrepoanalyzer_miniproject/assets/92009451/33c4086f-c66d-4b6f-b9f9-a267e1260530)
+![t4screen](https://github.com/ar5803-dotcom/initiate_debian_githubrepoanalyzer_miniproject/assets/92009451/14f71d02-83a8-4164-9ccb-c829405e4f4e)
 
 ![output](https://github.com/ar5803-dotcom/initiate_debian_githubrepoanalyzer_miniproject/assets/92009451/fbd7715f-0ce3-4c81-a179-996b89b44ba6)
 
